@@ -1,10 +1,3 @@
-echo "# TIL2" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/osy3197/TIL2.git
-git push -u origin master## day 01
 
 ## Wanted
 
